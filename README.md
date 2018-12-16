@@ -5,7 +5,9 @@
 ---
 ![Cloud Native Computing Foundation](https://raw.githubusercontent.com/cncf/artwork/master/cncf/horizontal/color/cncf-color.png)
 
-### This repo hosts published slide files, and detailed schedule can refer to the event website [kubecon-cloudnativecon-north-america-2018](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/schedule/).
+### This repo hosts published slide files
+- The detailed schedule can refer to the event website [kubecon-cloudnativecon-north-america-2018](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/schedule/).
+- And you can find the Video lists of [CNCF channel (Seattle '18: KubeCon + CloudNativeCon)](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU) on youtube, enjoy it. 😍
 
 ---
 ### Slides list (TOC):
@@ -31,6 +33,7 @@
 1. [Automating Research Workflows at BlackRock - Matthew Magaldi & Vaibhav Page, BlackRock.pdf](./Automating%20Research%20Workflows%20at%20BlackRock%20-%20Matthew%20Magaldi%20&%20Vaibhav%20Page,%20BlackRock.pdf)
 1. [Behind Your PR How Kubernetes Uses Kubernetes to Run Kubernetes CI.pdf](./Behind%20Your%20PR%20How%20Kubernetes%20Uses%20Kubernetes%20to%20Run%20Kubernetes%20CI.pdf)
 1. [Big Data Operations Using Kubernetes and Local Storage.pdf](./Big%20Data%20Operations%20Using%20Kubernetes%20and%20Local%20Storage.pdf)
+1. [Bringing Kubernetes to Bare-metal with a Focus on Users - Nicolas Trangez, Scality.pdf](./Bringing%20Kubernetes%20to%20Bare-metal%20with%20a%20Focus%20on%20Users%20-%20Nicolas%20Trangez,%20Scality.pdf)
 1. [Building your own PostgreSQL-as-a-Service on Kubernetes.pdf](./Building%20your%20own%20PostgreSQL-as-a-Service%20on%20Kubernetes.pdf)
 1. [Chaos Engineering - Open Science for Software Engineering - KubeCon North America 2018.pdf](./Chaos%20Engineering%20-%20Open%20Science%20for%20Software%20Engineering%20-%20KubeCon%20North%20America%202018.pdf)
 1. [CICD K8s And DBs Better Together.pdf](./CICD%20K8s%20And%20DBs%20Better%20Together.pdf)
@@ -79,6 +82,7 @@
 1. [gRPC Performance; Tuning Applications and Libraries.pdf](./gRPC%20Performance;%20Tuning%20Applications%20and%20Libraries.pdf)
 1. [gRPC-node deep dive.pdf](./gRPC-node%20deep%20dive.pdf)
 1. [Helm Intro.pdf](./Helm%20Intro.pdf)
+1. [high reliability infrastructuremigrations.pdf](./high%20reliability%20infrastructuremigrations.pdf)
 1. [Highly Available Kubernetes Clusters - Best Practices - Kubecon NA 2018.pdf](./Highly%20Available%20Kubernetes%20Clusters%20-%20Best%20Practices%20-%20Kubecon%20NA%202018.pdf)
 1. [How to Build Deep Learning Inference Through Knative Serverless Framework.pdf](./How%20to%20Build%20Deep%20Learning%20Inference%20Through%20Knative%20Serverless%20Framework.pdf)
 1. [IBMCloudSIG-KubeConSeattle18-Sahdev-Richard-Deep.pdf](./IBMCloudSIG-KubeConSeattle18-Sahdev-Richard-Deep.pdf)
@@ -151,7 +155,6 @@
 1. [Life of a Kubernetes Watch Event.pdf](./Life%20of%20a%20Kubernetes%20Watch%20Event.pdf)
 1. [Linkerd 2.0, Now with Extra Prometheus.pdf](./Linkerd%202.0,%20Now%20with%20Extra%20Prometheus.pdf)
 1. [Machine Learning as Code and Kubernetes with Kubeflow.pdf](./Machine%20Learning%20as%20Code%20and%20Kubernetes%20with%20Kubeflow.pdf)
-1. [MetalK8s - Kubecon 2018, Seattle.pdf](./MetalK8s%20-%20Kubecon%202018,%20Seattle.pdf)
 1. [Migrating Jenkins to Kubernetes Broke Our Brains.pdf](./Migrating%20Jenkins%20to%20Kubernetes%20Broke%20Our%20Brains.pdf)
 1. [migrating-internet-archive-to-kubernetes.pdf](./migrating-internet-archive-to-kubernetes.pdf)
 1. [minikube Intro - KubeCon Seattle 2018 (1).pdf](./minikube%20Intro%20-%20KubeCon%20Seattle%202018%20(1).pdf)
@@ -177,7 +180,6 @@
 1. [Running Serverless HPC Workloads on Top of Kubernetes and Jupyter Notebooks.pdf](./Running%20Serverless%20HPC%20Workloads%20on%20Top%20of%20Kubernetes%20and%20Jupyter%20Notebooks.pdf)
 1. [Scale Your Service on What Matters Autoscaling on Latency.pdf](./Scale%20Your%20Service%20on%20What%20Matters%20Autoscaling%20on%20Latency.pdf)
 1. [Scaling AI Inference Workloads with GPUs and Kubernetes - Renaud Gaubert & Ryan Olson, NVIDIA.pdf](./Scaling%20AI%20Inference%20Workloads%20with%20GPUs%20and%20Kubernetes%20-%20Renaud%20Gaubert%20&%20Ryan%20Olson,%20NVIDIA.pdf)
-1. [Scality MetalK8s - Kubecon 2018, Seattle.pdf](./Scality%20MetalK8s%20-%20Kubecon%202018,%20Seattle.pdf)
 1. [Scrutinizing SPIRE to Sensibly Strengthen SPIFFE Security.pdf](./Scrutinizing%20SPIRE%20to%20Sensibly%20Strengthen%20SPIFFE%20Security.pdf)
 1. [Seattle Kubecon 2018 Talk.pdf](./Seattle%20Kubecon%202018%20Talk.pdf)
 1. [Securing Application Metrics & Tracing.pptx](./Securing%20Application%20Metrics%20&%20Tracing.pptx)
@@ -192,10 +194,12 @@
 1. [SIG-OpenStack Update December 2018.pdf](./SIG-OpenStack%20Update%20December%202018.pdf)
 1. [SIG-Release Deep Dive.pdf](./SIG-Release%20Deep%20Dive.pdf)
 1. [sig-scheduling-intro-na.pdf](./sig-scheduling-intro-na.pdf)
+1. [Smooth Operator.pdf](./Smooth%20Operator.pdf)
 1. [Spawning Kubernetes in CI for Integration Tests.pdf](./Spawning%20Kubernetes%20in%20CI%20for%20Integration%20Tests.pdf)
 1. [SSO For Kubernetes.pdf](./SSO%20For%20Kubernetes.pdf)
 1. [Switching the Engine.pdf](./Switching%20the%20Engine.pdf)
 1. [Tales from the Kube.pdf](./Tales%20from%20the%20Kube.pdf)
+1. [Talk_ KubeCon Operators 2018.pdf](./Talk_%20KubeCon%20Operators%202018.pdf)
 1. [Telepresence KubeCon NA 2018.pdf](./Telepresence%20KubeCon%20NA%202018.pdf)
 1. [The Future of your CRDs_ Evolving an API.pdf](./The%20Future%20of%20your%20CRDs_%20Evolving%20an%20API.pdf)
 1. [The Meshiest Problem We've Ever Solved (1).pdf](./The%20Meshiest%20Problem%20We've%20Ever%20Solved%20(1).pdf)
