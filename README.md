@@ -12,8 +12,10 @@
 ---
 ### Slides list (TOC):
 
+1. [[PUBLIC] etcd@Kubecon-2018NA.pdf](./[PUBLIC]%20etcd@Kubecon-2018NA.pdf)
 1. [2018 CloudNativeCon GRPC Long And Streaming RPCs.pdf](./2018%20CloudNativeCon%20GRPC%20Long%20And%20Streaming%20RPCs.pdf)
 1. [2018 KubeCon NA - SIG Release Intro.pdf](./2018%20KubeCon%20NA%20-%20SIG%20Release%20Intro.pdf)
+1. [2018 Kubecon NA 5 years of etcd.pdf](./2018%20Kubecon%20NA%205%20years%20of%20etcd.pdf)
 1. [2018-12-11 Kubecon Gitops Tutorial.pdf](./2018-12-11%20Kubecon%20Gitops%20Tutorial.pdf)
 1. [20181211-etcd-kubecon-cluster-management (1).pdf](./20181211-etcd-kubecon-cluster-management%20(1).pdf)
 1. [2018-12-11--Intro_to_OpenMetrics.pdf](./2018-12-11--Intro_to_OpenMetrics.pdf)
