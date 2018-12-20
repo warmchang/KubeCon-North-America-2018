@@ -38,6 +38,7 @@
 1. [Bringing Kubernetes to Bare-metal with a Focus on Users - Nicolas Trangez, Scality.pdf](./Bringing%20Kubernetes%20to%20Bare-metal%20with%20a%20Focus%20on%20Users%20-%20Nicolas%20Trangez,%20Scality.pdf)
 1. [Building your own PostgreSQL-as-a-Service on Kubernetes.pdf](./Building%20your%20own%20PostgreSQL-as-a-Service%20on%20Kubernetes.pdf)
 1. [Chaos Engineering - Open Science for Software Engineering - KubeCon North America 2018.pdf](./Chaos%20Engineering%20-%20Open%20Science%20for%20Software%20Engineering%20-%20KubeCon%20North%20America%202018.pdf)
+1. [CI CD in Light Speed with K8s and Argo cd.pdf](./CI%20CD%20in%20Light%20Speed%20with%20K8s%20and%20Argo%20cd.pdf)
 1. [CICD K8s And DBs Better Together.pdf](./CICD%20K8s%20And%20DBs%20Better%20Together.pdf)
 1. [CLI DeepDive - Kubectl Plugins.pdf](./CLI%20DeepDive%20-%20Kubectl%20Plugins.pdf)
 1. [Cloud Jumping With Kubernetes.pdf](./Cloud%20Jumping%20With%20Kubernetes.pdf)
