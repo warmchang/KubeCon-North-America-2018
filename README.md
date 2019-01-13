@@ -202,6 +202,7 @@
 1. [SIG Apps Intro KubeCon NA 2018.pdf](./SIG%20Apps%20Intro%20KubeCon%20NA%202018.pdf)
 1. [SIG MultiCluster at Kubecon Seattle 2018.pdf](./SIG%20MultiCluster%20at%20Kubecon%20Seattle%202018.pdf)
 1. [SIG Scheduling Deep Dive, KubeCon 2018.pdf](./SIG%20Scheduling%20Deep%20Dive,%20KubeCon%202018.pdf)
+1. [Sig_API_Machinery_Deep_Dive_2018.pdf](./Sig_API_Machinery_Deep_Dive_2018.pdf)
 1. [SIG-OpenStack Update December 2018.pdf](./SIG-OpenStack%20Update%20December%202018.pdf)
 1. [SIG-Release Deep Dive.pdf](./SIG-Release%20Deep%20Dive.pdf)
 1. [sig-scheduling-intro-na.pdf](./sig-scheduling-intro-na.pdf)
